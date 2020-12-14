@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2b419d4378954b43a815a8b9ab234550" Name="Diagram1">
+        <EntityTypeShape EntityType="DBServiceDeskModel.sysdiagram" Width="1.5" PointX="5.75" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_ADMIN" Width="1.5" PointX="7.75" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_CARI" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_CATEGORY" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_DEPARTMENT" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_EMPLOYEE" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_INVOICEDETAIL" Width="1.5" PointX="7.5" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_INVOICEINFO" Width="1.5" PointX="5.25" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_ISSUEDETAIL" Width="1.5" PointX="9.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_NOTES" Width="1.5" PointX="9.75" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_PRODUCTACCEPT" Width="1.5" PointX="5.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_PRODUCTINFO" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_PRODUCTMOVEMENT" Width="1.5" PointX="8.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBServiceDeskModel.TBL_PRODUCTRACKING" Width="1.5" PointX="5.25" PointY="13.5" IsExpanded="true" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_INVOICEINFO_TBL_CARI" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_PRODUCTACCEPT_TBL_CARI" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_PRODUCTMOVEMENT_TBL_CARI" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_PRODUCTINFO_TBL_CATEGORY" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_EMPLOYEE_TBL_DEPARTMENT" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_PRODUCTACCEPT_TBL_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_INVOICEDETAIL_TBL_INVOICEINFO" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_PRODUCTACCEPT_TBL_PRODUCTINFO" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_PRODUCTMOVEMENT_TBL_PRODUCTINFO" ManuallyRouted="false" />
+        <AssociationConnector Association="DBServiceDeskModel.FK_TBL_PRODUCTRACKING_TBL_PRODUCTINFO" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

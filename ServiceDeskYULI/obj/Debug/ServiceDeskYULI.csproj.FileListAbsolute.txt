@@ -1,0 +1,185 @@
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ServiceDeskYULI.exe.config
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ServiceDeskYULI.exe
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ServiceDeskYULI.pdb
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\EntityFramework.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\EntityFramework.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.csprojAssemblyReference.cache
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.Form1.resources
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.Properties.Resources.resources
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.csproj.GenerateResource.cache
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.exe.licenses
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.csproj.CopyComplete
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.exe
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.pdb
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.Frms.FrmProductList.resources
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Yuliyan Samuilov\source\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.Frms.FrmNewProduct.resources
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ServiceDeskYULI.exe.config
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ServiceDeskYULI.exe
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ServiceDeskYULI.pdb
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\EntityFramework.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\EntityFramework.SqlServer.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Office.v19.2.Core.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Images.v19.2.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Data.v19.2.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Utils.v19.2.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraBars.v19.2.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\EntityFramework.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\EntityFramework.SqlServer.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\DevExpress.Office.v19.2.Core.xml
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.csprojAssemblyReference.cache
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.Form1.resources
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.Frms.FrmNewProduct.resources
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.Frms.FrmProductList.resources
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.Properties.Resources.resources
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.csproj.GenerateResource.cache
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.exe.licenses
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.csproj.CoreCompileInputs.cache
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.csproj.CopyComplete
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.exe
+U:\MANAGEMENT\Personal\repos\ServiceDeskYULI\ServiceDeskYULI\obj\Debug\ServiceDeskYULI.pdb

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBServiceDeskModelStoreContainer" CdmEntityContainer="DBServiceDeskEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_ADMIN">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_ADMIN">
+        <MappingFragment StoreEntitySet="TBL_ADMIN">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_CARI">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_CARI">
+        <MappingFragment StoreEntitySet="TBL_CARI">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="LASTNAME" ColumnName="LASTNAME" />
+          <ScalarProperty Name="TELEPHONE" ColumnName="TELEPHONE" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="COUNTRY" ColumnName="COUNTRY" />
+          <ScalarProperty Name="CITY" ColumnName="CITY" />
+          <ScalarProperty Name="BANK" ColumnName="BANK" />
+          <ScalarProperty Name="VAT" ColumnName="VAT" />
+          <ScalarProperty Name="VATNO" ColumnName="VATNO" />
+          <ScalarProperty Name="STATU" ColumnName="STATU" />
+          <ScalarProperty Name="ADDRESS" ColumnName="ADDRESS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_CATEGORY">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_CATEGORY">
+        <MappingFragment StoreEntitySet="TBL_CATEGORY">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_DEPARTMENT">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_DEPARTMENT">
+        <MappingFragment StoreEntitySet="TBL_DEPARTMENT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="INFO" ColumnName="INFO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_EMPLOYEE">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_EMPLOYEE">
+        <MappingFragment StoreEntitySet="TBL_EMPLOYEE">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="LASTNAME" ColumnName="LASTNAME" />
+          <ScalarProperty Name="DEPARTMENT" ColumnName="DEPARTMENT" />
+          <ScalarProperty Name="PICTURE" ColumnName="PICTURE" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="PHONE" ColumnName="PHONE" />
+          <ScalarProperty Name="NATIONALITY" ColumnName="NATIONALITY" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_INVOICEDETAIL">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_INVOICEDETAIL">
+        <MappingFragment StoreEntitySet="TBL_INVOICEDETAIL">
+          <ScalarProperty Name="INVOICEDETAILID" ColumnName="INVOICEDETAILID" />
+          <ScalarProperty Name="PRODUCT" ColumnName="PRODUCT" />
+          <ScalarProperty Name="QUANTITY" ColumnName="QUANTITY" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="TOTALPRICE" ColumnName="TOTALPRICE" />
+          <ScalarProperty Name="INVOICEID" ColumnName="INVOICEID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_INVOICEINFO">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_INVOICEINFO">
+        <MappingFragment StoreEntitySet="TBL_INVOICEINFO">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SERIALID" ColumnName="SERIALID" />
+          <ScalarProperty Name="SERIALNO" ColumnName="SERIALNO" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+          <ScalarProperty Name="TIME" ColumnName="TIME" />
+          <ScalarProperty Name="VAT" ColumnName="VAT" />
+          <ScalarProperty Name="CARI" ColumnName="CARI" />
+          <ScalarProperty Name="EMPLOYEE" ColumnName="EMPLOYEE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_ISSUEDETAIL">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_ISSUEDETAIL">
+        <MappingFragment StoreEntitySet="TBL_ISSUEDETAIL">
+          <ScalarProperty Name="ISSUEID" ColumnName="ISSUEID" />
+          <ScalarProperty Name="PROCCESS" ColumnName="PROCCESS" />
+          <ScalarProperty Name="ISSUE" ColumnName="ISSUE" />
+          <ScalarProperty Name="EXPLANATION" ColumnName="EXPLANATION" />
+          <ScalarProperty Name="PREPRICE" ColumnName="PREPRICE" />
+          <ScalarProperty Name="CURRENTPRICE" ColumnName="CURRENTPRICE" />
+          <ScalarProperty Name="OPERATIONS" ColumnName="OPERATIONS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_NOTES">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_NOTES">
+        <MappingFragment StoreEntitySet="TBL_NOTES">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TITLE" ColumnName="TITLE" />
+          <ScalarProperty Name="SUBJECT" ColumnName="SUBJECT" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_PRODUCTACCEPT">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_PRODUCTACCEPT">
+        <MappingFragment StoreEntitySet="TBL_PRODUCTACCEPT">
+          <ScalarProperty Name="WORKID" ColumnName="WORKID" />
+          <ScalarProperty Name="PRODUCT" ColumnName="PRODUCT" />
+          <ScalarProperty Name="CARI" ColumnName="CARI" />
+          <ScalarProperty Name="EMPLOYEE" ColumnName="EMPLOYEE" />
+          <ScalarProperty Name="INCOMEDATE" ColumnName="INCOMEDATE" />
+          <ScalarProperty Name="OUTGOINGDATE" ColumnName="OUTGOINGDATE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_PRODUCTINFO">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_PRODUCTINFO">
+        <MappingFragment StoreEntitySet="TBL_PRODUCTINFO">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="BRAND" ColumnName="BRAND" />
+          <ScalarProperty Name="BUY" ColumnName="BUY" />
+          <ScalarProperty Name="SELL" ColumnName="SELL" />
+          <ScalarProperty Name="STOCK" ColumnName="STOCK" />
+          <ScalarProperty Name="CATOGORY" ColumnName="CATOGORY" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_PRODUCTMOVEMENT">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_PRODUCTMOVEMENT">
+        <MappingFragment StoreEntitySet="TBL_PRODUCTMOVEMENT">
+          <ScalarProperty Name="MOVEMENTID" ColumnName="MOVEMENTID" />
+          <ScalarProperty Name="PRODUCT" ColumnName="PRODUCT" />
+          <ScalarProperty Name="CLIENT" ColumnName="CLIENT" />
+          <ScalarProperty Name="EMPLOYEE" ColumnName="EMPLOYEE" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+          <ScalarProperty Name="QUANTITY" ColumnName="QUANTITY" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_PRODUCTRACKING">
+      <EntityTypeMapping TypeName="DBServiceDeskModel.TBL_PRODUCTRACKING">
+        <MappingFragment StoreEntitySet="TBL_PRODUCTRACKING">
+          <ScalarProperty Name="TRACKINGID" ColumnName="TRACKINGID" />
+          <ScalarProperty Name="PRODUCT" ColumnName="PRODUCT" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+          <ScalarProperty Name="DATA" ColumnName="DATA" />
+          <ScalarProperty Name="TRACKINGCODE" ColumnName="TRACKINGCODE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
